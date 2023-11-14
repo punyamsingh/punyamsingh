@@ -7,18 +7,9 @@
 <h1>i'm gonna run.</h1>
 <!-- <hr> -->
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=punyamsingh&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🌐 Socials:
-<p align="left">
-<a href="https://linkedin.com/in/punyam-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="punyam-singh" height="30" width="40" /></a>
-<a href="https://fb.com/thepunyam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thepunyam" height="30" width="40" /></a>
-<a href="https://instagram.com/punyamsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="punyamsingh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/punyamsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="punyamsingh" height="30" width="40" /></a>
-<a href="https://discord.gg/epiloger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="epiloger" height="30" width="40" /></a>
-</p>
-
+<!--
 # 💻 Tech Stack:
+-->
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
@@ -39,8 +30,23 @@
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
+<!--
+## 🌐 Socials:
+-->
+
+<p align="left">
+<a href="https://linkedin.com/in/punyam-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="punyam-singh" height="30" width="40" /></a>
+<a href="https://fb.com/thepunyam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thepunyam" height="30" width="40" /></a>
+<a href="https://instagram.com/punyamsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="punyamsingh" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/punyamsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="punyamsingh" height="30" width="40" /></a>
+<a href="https://discord.gg/epiloger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="epiloger" height="30" width="40" /></a>
+</p>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=punyamsingh&theme=react&hide_border=false) 
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=punyamsingh&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
