@@ -43,10 +43,11 @@
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=punyamsingh&theme=react&hide_border=false) 
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=punyamsingh&theme=react&hide_border=false) 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=punyamsingh&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=punyamsingh&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+![Github Repository StatsStats](https://github-readme-stats.vercel.app/api?username=punyamsingh&theme=react&hide_border=false&include_all_commits=true&count_private=true)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
