@@ -44,9 +44,9 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) 
 
-<!--
+
 ## 🌐 Socials:
--->
+
 
 <p align="left">
 <a href="https://linkedin.com/in/punyam-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="punyam-singh" height="30" width="40" /></a>
