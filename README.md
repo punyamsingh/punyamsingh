@@ -63,9 +63,19 @@
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=punyamsingh&theme=react&hide_border=false)
 
+<!-- 
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=punyamsingh&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ![Github Repository StatsStats](https://github-readme-stats.vercel.app/api?username=punyamsingh&theme=react&hide_border=false&include_all_commits=true&count_private=true)
+<hr> -->
+
+
+<div align="center">
+  <img style="float: left; margin-right: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=punyamsingh&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img style="float: right; margin-left: 10px;" src="https://github-readme-stats.vercel.app/api?username=punyamsingh&theme=react&hide_border=false&include_all_commits=true&count_private=true" />
+</div>
+
 
 
 ## ✍️ Random Dev Quote
