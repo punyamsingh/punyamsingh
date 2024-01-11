@@ -88,4 +88,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=punyamsingh&icon=9&color=1)](https://visitcount.itsvg.in)
 
+
+![Snake animation](https://github.com/{{punyamsingh}}/{{punyamsingh}}/blob/output/github-contribution-grid-snake.svg)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
