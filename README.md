@@ -61,8 +61,6 @@
 
 ## 📊 GitHub Stats:
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=punyamsingh&theme=react&hide_border=false)
-
 <!-- 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=punyamsingh&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -71,9 +69,12 @@
 <hr> -->
 
 
-<div align="center">
-  <img style="float: left; margin-right: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=punyamsingh&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-  <img style="float: right; margin-left: 10px;" src="https://github-readme-stats.vercel.app/api?username=punyamsingh&theme=react&hide_border=false&include_all_commits=true&count_private=true" />
+<div align="center" style="display: flex; flex-direction: column;">
+  <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=punyamsingh&theme=react&hide_border=false" />  
+  <div align="center">
+    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=punyamsingh&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+      <img height="200px" src="https://github-readme-stats.vercel.app/api?username=punyamsingh&theme=react&hide_border=false&include_all_commits=true&count_private=true" />
+  </div>
 </div>
 
 
@@ -87,5 +88,8 @@
 
 
 [![](https://visitcount.itsvg.in/api?id=punyamsingh&icon=9&color=1)](https://visitcount.itsvg.in)
+
+
+![Snake animation](https://raw.githubusercontent.com/punyamsingh/punyamsingh/output/snake.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
