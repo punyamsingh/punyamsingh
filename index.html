@@ -6,11 +6,21 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Embedded Portfolio</title>
         <style>
+            /* Remove all margins and padding from the body */
+            body {
+                margin: 0;
+                padding: 0;
+                overflow: hidden;
+                /* Prevent scrollbars */
+            }
+
             /* Make iframe seamless */
             iframe {
                 width: 100vw;
                 height: 100vh;
                 border: none;
+                display: block;
+                /* Removes inline gaps */
             }
         </style>
     </head>
