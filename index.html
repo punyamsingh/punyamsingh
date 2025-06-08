@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Embedded Portfolio</title>
+        <style>
+            /* Make iframe seamless */
+            iframe {
+                width: 100vw;
+                height: 100vh;
+                border: none;
+            }
+        </style>
+    </head>
+
+    <body>
+        <iframe id="embedded-site" src="https://portfolio-punyamsingh.vercel.app/"
+            sandbox="allow-scripts allow-same-origin"></iframe>
+
+        <script>
+            const iframe = document.getElementById('embedded-site');
+
+            // Listen for path changes within the iframe
+            iframe.onload = () => {
+                const iframeWindow = iframe.contentWindow;
+
+                // Poll for URL changes
+                setInterval(() => {
+                    const currentPath = iframeWindow.location.pathname;
+                    console.log('Current path inside iframe:',currentPath);
+                    // You can handle the path changes here
+                },500);
+            };
+        </script>
+    </body>
+
+</html>
